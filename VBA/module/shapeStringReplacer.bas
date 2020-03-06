@@ -1,7 +1,7 @@
 ' HowToUse
 ' 1.Create Module in VBA
 ' 2.Paste this module
-' 3.Write "RepText(A,B)"
+' 3.Write "RepText(A,B)" to Cell in target sheet 
 
 Option Explicit
 
